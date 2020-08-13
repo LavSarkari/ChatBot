@@ -1,5 +1,11 @@
 # ChatBox
 I have created a virtual buddy named Chatrum for you in ChatBox using an simple python script
-Used it by
+_____________________________________________________________________________________________
+Commond line....
+.............................................................................................
+pkg install git
+git clone https://github.com/LavSarkari/ChatBox 
+cd ChatBox
+ls
 python ChatBox.py
-Its simply to use....
+.............................................................................................
