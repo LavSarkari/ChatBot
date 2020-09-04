@@ -16,5 +16,3 @@ ________________________________________________________________________________
  python ChatBox.py
 
  ......................................................................
-# Recommend
-You are requested to install termux-api(from playstore) for better experience.
