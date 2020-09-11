@@ -1,13 +1,13 @@
-# ChatBox
-I have created a virtual buddy named Chatrum for you in ChatBox using an simple python script
+# ChatBot
+I have created a virtual buddy named Chatrum for you in ChatBot using an simple python script
 _____________________________________________________________________________________________
 # Commond line....
  ......................................................................
  pkg install git
 
- git clone https://github.com/LavSarkari/ChatBox 
+ git clone https://github.com/LavSarkari/ChatBot
 
- cd ChatBox
+ cd ChatBot
 
  ls
 
